@@ -1,0 +1,10 @@
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\EmptyProject\bin\Debug\EmptyProject.dll.config
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\EmptyProject\bin\Debug\EmptyProject.dll
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\EmptyProject\bin\Debug\EmptyProject.pdb
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\EmptyProject\bin\Debug\Common.dll
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\EmptyProject\bin\Debug\Common.pdb
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\EmptyProject\obj\Debug\EmptyProject.dll
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\EmptyProject\obj\Debug\EmptyProject.pdb
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\EmptyProject\obj\Debug\EmptyProject.csprojResolveAssemblyReference.cache
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\EmptyProject\bin\Debug\CommonProject.dll
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\EmptyProject\bin\Debug\CommonProject.pdb

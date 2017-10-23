@@ -1,0 +1,5 @@
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\CommonProject\bin\Debug\CommonProject.dll
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\CommonProject\bin\Debug\CommonProject.pdb
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\CommonProject\obj\Debug\CommonProject.csprojResolveAssemblyReference.cache
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\CommonProject\obj\Debug\CommonProject.dll
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\CommonProject\obj\Debug\CommonProject.pdb

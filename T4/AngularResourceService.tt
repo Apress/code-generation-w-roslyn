@@ -1,0 +1,40 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" inherits="AngularResourceServiceBase" #> 
+var app = angular.module("challenge", [ "ngResource"]); 
+<#     
+    var controllers = GetControllers(); 
+    foreach(var controller in controllers) 
+    { 
+        var className = controller.Identifier.Text.Replace("Controller", ""); 
+#>      app.factory(<#=className #>Resource , function ($resource) { 
+            return $resource('<#=Url#>api/<#=className#>',{<#=className#> : '@<#=className#>'},{ 
+<# 
+        var models= GetModels(controller); 
+        var properties = GetProperties(models); 
+        foreach (var property in properties) 
+        { 
+#> 
+            <#=property.Name#> : "", 
+<# 
+        } 
+        var actions = GetActions(controller); 
+        foreach (var action in actions) 
+        { 
+            if (action == "query") 
+            { 
+#>         query : { 
+              method: "GET"     
+            , isArray : true 
+             } 
+<#            } 
+            else{ 
+#>     , <#=action#>: { 
+               method: "<#= action.ToUpper()#>" 
+            }         
+<#            } 
+        } 
+#> 
+   }); 
+}); 
+<# 
+    } 
+#> 

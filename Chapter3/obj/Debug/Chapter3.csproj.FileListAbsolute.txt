@@ -1,0 +1,6 @@
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\Chapter3\bin\Debug\Chapter3.exe.config
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\Chapter3\bin\Debug\Chapter3.exe
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\Chapter3\bin\Debug\Chapter3.pdb
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\Chapter3\obj\Debug\Chapter3.csprojResolveAssemblyReference.cache
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\Chapter3\obj\Debug\Chapter3.exe
+C:\Users\nharr\Source\Workspaces\MyFirstProject\RoslynPlayground\RoslynPlayground\Chapter3\obj\Debug\Chapter3.pdb
