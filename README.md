@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Code Generation with Roslyn*](http://www.apress.com/9781484222102) by Nick Harrison (Apress, ).
+This repository accompanies [*Code Generation with Roslyn*](http://www.apress.com/9781484222102) by Nick Harrison (Apress, 2017).
 
 [comment]: #cover
 ![Cover image](9781484222102.jpg)
